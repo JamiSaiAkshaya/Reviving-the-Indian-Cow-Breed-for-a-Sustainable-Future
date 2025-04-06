@@ -1,0 +1,109 @@
+breed_a,breed_b,compatibility_score,recommended,notes
+Holstein,Jersey,0.85,Yes,Good milk production with improved butterfat
+Holstein,Angus,0.65,Yes,Good for beef production with dairy traits
+Holstein,Hereford,0.60,Yes,Beef-dairy cross with good growth rates
+Holstein,Brahman,0.40,No,Climate adaptation issues
+Holstein,Brown Swiss,0.85,Yes,Excellent dairy production combination
+Holstein,Guernsey,0.70,Yes,Balanced milk production
+Holstein,Ayrshire,0.80,Yes,Dairy cross with good production
+Holstein,Simmental,0.60,Yes,Dual purpose with good growth
+Holstein,Charolais,0.55,Yes,Growth-focused cross with dairy influence
+Holstein,Limousin,0.50,No,Conflicting production goals
+Holstein,Gir,0.60,Yes,Heat tolerance with improved milk
+Holstein,Sahiwal,0.60,Yes,Heat resistance with milk production
+Jersey,Guernsey,0.90,Yes,Excellent milk quality with high butterfat
+Jersey,Angus,0.75,Yes,Good marbling in beef with moderate size
+Jersey,Simmental,0.65,Yes,Improved milk and meat production
+Jersey,Holstein,0.85,Yes,Complementary dairy traits
+Jersey,Brown Swiss,0.80,Yes,Quality milk with good components
+Jersey,Ayrshire,0.75,Yes,Good adaptation with quality milk
+Jersey,Hereford,0.65,Yes,Moderate beef cross with high milk solids
+Jersey,Charolais,0.55,No,Size disparity concerns
+Jersey,Limousin,0.50,No,Frame size mismatch
+Jersey,Gir,0.65,Yes,Heat adapted with quality milk
+Jersey,Sahiwal,0.65,Yes,Heat tolerance with improved components
+Jersey,Brahman,0.50,No,Size and climate adaptation concerns
+Angus,Hereford,0.95,Yes,Classic beef cross with excellent results
+Angus,Charolais,0.85,Yes,Improved growth rates and meat quality
+Angus,Brahman,0.70,Yes,Good heat tolerance with quality beef
+Angus,Holstein,0.65,Yes,Dairy influence with quality beef
+Angus,Jersey,0.75,Yes,Moderate size with excellent marbling
+Angus,Simmental,0.85,Yes,Excellent terminal cross for beef
+Angus,Limousin,0.90,Yes,Premium beef production qualities
+Angus,Brown Swiss,0.70,Yes,Good beef traits with dairy influence
+Angus,Sahiwal,0.65,Yes,Heat adaptability with beef quality
+Angus,Gir,0.60,Yes,Tropical adaptation with beef quality
+Angus,Guernsey,0.65,Yes,Good beef with dairy influence
+Angus,Ayrshire,0.60,Yes,Moderate beef cross
+Hereford,Simmental,0.80,Yes,Good growth and maternal traits
+Hereford,Charolais,0.85,Yes,Excellent terminal cross for beef
+Hereford,Brahman,0.75,Yes,Heat tolerance with good beef quality
+Hereford,Angus,0.95,Yes,Classic beef cross combination
+Hereford,Holstein,0.60,Yes,Dairy influence on traditional beef
+Hereford,Jersey,0.65,Yes,Compact beef cross with dairy traits
+Hereford,Limousin,0.85,Yes,Excellent beef confirmation
+Hereford,Brown Swiss,0.65,Yes,Good beef with dairy influence
+Hereford,Guernsey,0.60,Yes,Mixed dairy-beef traits
+Hereford,Ayrshire,0.60,Yes,Beef cross with dairy hardiness
+Hereford,Sahiwal,0.70,Yes,Heat tolerance with beef quality
+Hereford,Gir,0.65,Yes,Tropical adaptation with beef
+Brahman,Hereford,0.75,Yes,Heat tolerance with good beef quality
+Brahman,Angus,0.70,Yes,Brangus cross - popular in warm climates
+Brahman,Holstein,0.40,No,Climate adaptation issues
+Brahman,Jersey,0.50,No,Size and climate adaptation concerns
+Brahman,Simmental,0.65,Yes,Heat-tolerant growth cross
+Brahman,Charolais,0.70,Yes,Growth-focused cross for warm regions
+Brahman,Limousin,0.65,Yes,Muscular beef adapted to heat
+Brahman,Brown Swiss,0.55,No,Mixed climate adaptations
+Brahman,Guernsey,0.45,No,Climate and production goal differences
+Brahman,Ayrshire,0.50,No,Different environmental adaptations
+Brahman,Gir,0.85,Yes,Excellent tropical adaptation
+Brahman,Sahiwal,0.85,Yes,Superior heat tolerance combination
+Simmental,Charolais,0.75,Yes,Large frame size with excellent growth
+Simmental,Limousin,0.80,Yes,Good muscling and growth rates
+Simmental,Holstein,0.60,Yes,Balanced dairy and beef traits
+Simmental,Jersey,0.65,Yes,Improved milk and meat production
+Simmental,Angus,0.85,Yes,Balanced terminal cross
+Simmental,Hereford,0.80,Yes,Good maternal and growth traits
+Simmental,Brahman,0.65,Yes,Growth with heat tolerance
+Simmental,Brown Swiss,0.70,Yes,Dual purpose capabilities
+Simmental,Guernsey,0.60,Yes,Mixed production goals
+Simmental,Ayrshire,0.65,Yes,Decent all-purpose cross
+Simmental,Gir,0.60,Yes,Heat tolerance with growth
+Simmental,Sahiwal,0.60,Yes,Tropical adaptation with good growth
+Charolais,Limousin,0.85,Yes,Premium beef production
+Charolais,Holstein,0.55,Yes,Growth-focused with dairy
+Charolais,Jersey,0.55,No,Size disparity concerns
+Charolais,Angus,0.85,Yes,Terminal beef cross with quality
+Charolais,Hereford,0.85,Yes,Excellent terminal beef cross
+Charolais,Brahman,0.70,Yes,Growth in hot climates
+Charolais,Simmental,0.75,Yes,Growth-focused combination
+Charolais,Brown Swiss,0.65,Yes,Growth with dairy influence
+Charolais,Guernsey,0.50,No,Different production goals
+Charolais,Ayrshire,0.55,Yes,Growth with hardiness
+Charolais,Gir,0.60,Yes,Growth with heat adaptation
+Charolais,Sahiwal,0.60,Yes,Growth potential in warm regions
+Guernsey,Jersey,0.90,Yes,High butterfat milk production
+Guernsey,Holstein,0.70,Yes,Balanced milk production
+Guernsey,Brown Swiss,0.80,Yes,Quality milk with good components
+Guernsey,Angus,0.65,Yes,Good beef with dairy influence
+Guernsey,Hereford,0.60,Yes,Mixed dairy-beef traits
+Guernsey,Brahman,0.45,No,Climate and production goal differences
+Guernsey,Simmental,0.60,Yes,Mixed production goals
+Guernsey,Charolais,0.50,No,Different production goals
+Guernsey,Limousin,0.45,No,Conflicting production focus
+Guernsey,Ayrshire,0.75,Yes,Complementary dairy traits
+Guernsey,Gir,0.60,Yes,Dairy focus with heat tolerance
+Guernsey,Sahiwal,0.60,Yes,Dairy with heat adaptation
+Brown Swiss,Holstein,0.85,Yes,Good milk production with protein content
+Brown Swiss,Jersey,0.80,Yes,Quality milk with good components
+Brown Swiss,Guernsey,0.80,Yes,Excellent milk components
+Brown Swiss,Angus,0.70,Yes,Good beef traits with dairy influence
+Brown Swiss,Hereford,0.65,Yes,Good beef with dairy influence
+Brown Swiss,Brahman,0.55,No,Mixed climate adaptations
+Brown Swiss,Simmental,0.70,Yes,Dual purpose capabilities
+Brown Swiss,Charolais,0.65,Yes,Growth with dairy influence
+Brown Swiss,Limousin,0.60,Yes,Mixed dairy-beef traits
+Brown Swiss,Ayrshire,0.75,Yes,Solid dairy combination
+Brown Swiss,Gir,0.65,Yes,Dairy with heat adaptation
+Brown Swiss,Sahiwal,0.65,Yes,Good milk in varied climates
