@@ -1,0 +1,53 @@
+/* AddCow.css */
+
+.add-cow-container {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 2rem;
+  border-radius: 12px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.add-cow-container h2 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+  color: #2e7d32;
+}
+
+.add-cow-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.add-cow-form input,
+.add-cow-form textarea {
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+  background-color: #f9f9f9;
+}
+
+.add-cow-form input:focus,
+.add-cow-form textarea:focus {
+  outline: none;
+  border-color: #2e7d32;
+  background-color: #fff;
+}
+
+.add-cow-form button {
+  padding: 12px;
+  background-color: #2e7d32;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.add-cow-form button:hover {
+  background-color: #1b5e20;
+}

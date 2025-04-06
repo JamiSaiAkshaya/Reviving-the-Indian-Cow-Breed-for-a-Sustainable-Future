@@ -1,0 +1,34 @@
+/* community.css */
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+}
+
+.community-container {
+  text-align: center; /* Center all text inside this container */
+  padding: 60px 20px;
+}
+
+.community-title {
+  font-size: 2.5rem;
+  color: #2c3e50;
+  margin-bottom: 10px;
+}
+
+.community-description {
+  font-size: 1.2rem;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+.back-link {
+  font-size: 1rem;
+  color: #2980b9;
+  text-decoration: none;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}
